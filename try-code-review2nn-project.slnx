@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="try-code-review2nn-project/try-code-review2nn-project.vcxproj" />
+</Solution>
