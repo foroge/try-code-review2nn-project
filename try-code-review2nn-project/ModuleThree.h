@@ -7,10 +7,7 @@ int findStr1InStr2(std::string str1, std::string str2) {
 		if (str2[i] == str1[0]) {
 			int j = i;
 			int k = 0;
-			while (j < str2.length() && k < str1.length() && str2[j] ==
-
-				str1[k]) {
-
+			while (j < str2.length() && k < str1.length() && str2[j] == str1[k]) {
 				j++;
 				k++;
 			}
